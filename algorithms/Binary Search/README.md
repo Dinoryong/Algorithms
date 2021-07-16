@@ -1,0 +1,14 @@
+# Binary Search
+
+----
+
+> 
+>
+> [toc]
+
+
+
+## Notes
+
+
+

@@ -1,0 +1,12 @@
+# Memoization
+
+----
+
+> [toc]
+
+
+
+## Notes
+
+
+

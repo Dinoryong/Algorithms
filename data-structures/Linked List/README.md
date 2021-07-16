@@ -1,0 +1,12 @@
+# Linked List
+
+----
+
+> [toc]
+
+
+
+## Notes
+
+
+

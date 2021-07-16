@@ -1,12 +1,334 @@
-# Today I Learned 🧑🏻‍💻
+#  README
 
-> Hi there 👋 This page is for "Recording what I've learned"
->
-> _We do not learn from experiences. We learn from_ [_reflecting_](https://pyohamen.gitbook.io/til/reflecting) _on experiences_ - John Dewey
+-----------
+
+> [toc]
 
 
 
-### Table of Contents
+![README_img_1](README.assets/README_img_1.png)
+
+
+
+1. Read
+2. Visualize by drawing
+3. Understand and Code
+
+
+
+##  Array
+
+> fdss
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+```
+
+2. sdfs
+
+```python
+```
+
+3. 
+
+
+
+##  Binary
+
+> dfs
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
+
+## Dynamic Programming
+
+> fc
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
+
+
+
+## Graph
+
+> fsd
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
+
+
+
+
+
+## Interval
+
+> 34
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
+
+
+
+## Linked List
+
+> sd
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
+
+
+
+## Matrix
+
+> dsf
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
+
+
+
+## String
+
+> fsdf
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
+
+
+
+## Tree
+
+> sd
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
+
+
+
+## Heap
+
+> sds
+
+Leetcode Problem Set
+
+
+
+Notes
+
+
+
+Templates
+
+1. fdsf
+
+```python
+
+```
+
+2. sdfs
+
+```python
+
+```
+
+3. 
+
+
 
 
 
