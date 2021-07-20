@@ -25,6 +25,7 @@
   - static in size, meaning that they are declared with a fixed size
 - **Dynamic Array** - like one dimensional arrays, but have reserved space for additional elements
   - if a dynamic array is full, it copies its contents to a larger array
+  - In Python, 정적 배열 대신 동적 배열만 존재하면 list 로 사용
 - **Multi Dimensional Array** - nested array that allow for multiple dimensions such as an arrays providing a 2 dimensional spacial represenation via x, y coordinates
 
 <br/>
@@ -356,6 +357,8 @@ void rotateArray(List<Integer> a, int n) {
 
 [Two Sum](https://leetcode.com/problems/two-sum) -> [my solution](https://github.com/Dinoryong/Algorithms/blob/main/data-structures/Array/Two%20Sum.md)
 
+[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -407,6 +410,10 @@ Hash Table
 [Tech Interview Handbook](https://techinterviewhandbook.org/algorithms/array)
 
 [Interview Question for Beginner](https://github.com/CS-box/Interview_Question_for_Beginner/tree/master/DataStructure#array-vs-linked-list)
+
+[파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)
+
+[코딩 인터뷰 퀘스쳔](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=232182463&gclid=Cj0KCQjwxdSHBhCdARIsAG6zhlXZaxUGTQQVrjWXlFQ1YJy-fA3OhraK87rc7KQ5ngXwDyzO7ti4vhMaAlBOEALw_wcB)
 
 <br/>
 
