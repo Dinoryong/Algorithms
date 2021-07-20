@@ -379,9 +379,9 @@ void rotateArray(List<Integer> a, int n) {
 
 [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) => [SOLVED](https://github.com/Dinoryong/Algorithms/blob/main/data-structures/Array/prg_Kth%20Number.md)
 
-[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) => [SOLVED](https://github.com/Dinoryong/Algorithms/blob/main/data-structures/Array/prg_The%20Largest%20Number.md)
 
-[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) => [SOLVED](https://github.com/Dinoryong/Algorithms/blob/main/data-structures/Array/prg_H-Index.md)
 
 <br/>
 
