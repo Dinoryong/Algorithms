@@ -355,7 +355,7 @@ void rotateArray(List<Integer> a, int n) {
 
 ## Problem Sets
 
-[Two Sum](https://leetcode.com/problems/two-sum) -> [my solution](https://github.com/Dinoryong/Algorithms/blob/main/data-structures/Array/Two%20Sum.md)
+[Two Sum](https://leetcode.com/problems/two-sum) -> [SOL](https://github.com/Dinoryong/Algorithms/blob/main/data-structures/Array/Two%20Sum.md)
 
 [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
@@ -377,7 +377,7 @@ void rotateArray(List<Integer> a, int n) {
 
 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
-[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) => [SOL](https://github.com/Dinoryong/Algorithms/blob/main/data-structures/Array/prg_Kth%20Number.md)
 
 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
